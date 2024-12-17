@@ -1,0 +1,5 @@
+{
+    "vscode-corda.isCordaProject": false,
+    "cmake.ignoreCMakeListsMissing": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
